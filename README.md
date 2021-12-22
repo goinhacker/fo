@@ -1,2 +1,2 @@
-# fungo
+# fo
 functional programming with golang
